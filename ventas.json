@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5befdcb14f90a02bf99beeb1"},"Producto":"moto","Precio":1000.0}
+{"_id":{"$oid":"5befdd494f90a02bf99beeb2"},"Producto":"coche","Precio":2000.0}
+{"_id":{"$oid":"5befdd494f90a02bf99beeb3"},"Producto":"bici","Precio":200.0}
+{"_id":{"$oid":"5befdf1c4f90a02bf99beeb4"},"Producto":"coche","Precio":3000.0,"Año":2015.0}
